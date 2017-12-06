@@ -1,0 +1,5 @@
+---
+ - name: copy module
+   copy:
+    src: /home/admin12/play/rpm.yml
+    dest: /home/admin12/pallavi
